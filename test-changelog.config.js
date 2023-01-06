@@ -3,7 +3,7 @@ const config = require('conventional-changelog-conventionalcommits');
 
 module.exports = config({
     "types": [
-        { type: 'feat', section: 'New Features' },
-        { type: 'fix', section: 'Bugs' }
+        { type: 'added', section: 'New Features' },
+        { type: 'fixed', section: 'Bugs' }
     ]
 })
