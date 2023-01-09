@@ -1,4 +1,13 @@
-# 4.0.0 (2023-01-06)
+## [4.0.1](https://github.com/TriPSs/conventional-changelog-action/compare/v4.0.0...v4.0.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* change prefixes to match keep a changelog ([908b3d9](https://github.com/TriPSs/conventional-changelog-action/commit/908b3d97948880b3cad2032ab474acc178c95e7e))
+
+
+
+# [4.0.0](https://github.com/TriPSs/conventional-changelog-action/compare/70ed437cb42d5ad01303d98797a7988fe1266f6b...v4.0.0) (2023-01-06)
 
 
 ### Bug Fixes
