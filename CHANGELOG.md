@@ -1,3 +1,12 @@
+## [4.0.2](https://github.com/TriPSs/conventional-changelog-action/compare/v4.0.1...v4.0.2) (2023-01-09)
+
+
+### Bug Fixes
+
+* test commit ([e7354a5](https://github.com/TriPSs/conventional-changelog-action/commit/e7354a56979bbbbd14faf8b5bcffd22aa4a8d98a))
+
+
+
 ## [4.0.1](https://github.com/TriPSs/conventional-changelog-action/compare/v4.0.0...v4.0.1) (2023-01-09)
 
 
