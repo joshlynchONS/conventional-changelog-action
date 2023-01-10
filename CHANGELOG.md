@@ -1,3 +1,12 @@
+## [4.0.3](https://github.com/TriPSs/conventional-changelog-action/compare/v4.0.2...v4.0.3) (2023-01-10)
+
+
+### Bug Fixes
+
+* add rap folder ([5dd9623](https://github.com/TriPSs/conventional-changelog-action/commit/5dd96236e6a93f8be72609a287561384e420c5ed))
+
+
+
 ## [4.0.2](https://github.com/TriPSs/conventional-changelog-action/compare/v4.0.1...v4.0.2) (2023-01-09)
 
 
